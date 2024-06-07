@@ -38,6 +38,15 @@ Best Sites Features for Phishing
     Yahoo
     Yandex
 ```
+```
+Uses
+1) First install repo
+2) create Phising Link
+3) open Phiaing Linlk user
+4) You See user cridential in sites folder Your select sites folder and You see txt file there
+5) just open and see user cridentials in txt files
+
+``` 
 
 #Getting Started
 
