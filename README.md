@@ -48,7 +48,7 @@ Best Sites Features for Phishing
 
 ``` 
 
-#Getting Started
+# Getting Started
 
     Clone the repository: git clone https://github.com/ghosthets/GHOSTHUNGT.git
     Navigate to the project directory: cd GHOSTHUNT-Phishing-Kit
