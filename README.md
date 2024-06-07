@@ -45,6 +45,6 @@ Best Sites Features for Phishing
     Navigate to the project directory: cd GHOSTHUNT-Phishing-Kit
     Run the main script: python main.py
 
-# Note: This is a phishing kit and should only be used for educational or testing purposes. Using this kit for malicious activities is illegal and unethical.#
+# Note: This is a phishing kit and should only be used for educational or testing purposes. Using this kit for malicious activities is illegal and unethical.
 
 ```License: This project is licensed under the GNU License. See LICENSE for details.```
