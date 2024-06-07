@@ -38,6 +38,13 @@ Best Sites Features for Phishing
     Yahoo
     Yandex
 ```
+# Getting Started
+
+    Clone the repository: git clone https://github.com/ghosthets/GHOSTHUNGT.git
+    Navigate to the project directory: cd GHOSTHUNT-Phishing-Kit
+    Run the main script: python main.py
+    
+    
 # Uses
 ```
 1) First install repo
@@ -46,13 +53,9 @@ Best Sites Features for Phishing
 4) You See user cridential in sites folder Your select sites folder and You see txt file there
 5) just open and see user cridentials in txt files
 
-``` 
+```
 
-# Getting Started
 
-    Clone the repository: git clone https://github.com/ghosthets/GHOSTHUNGT.git
-    Navigate to the project directory: cd GHOSTHUNT-Phishing-Kit
-    Run the main script: python main.py
 
 # Note: This is a phishing kit and should only be used for educational or testing purposes. Using this kit for malicious activities is illegal and unethical.
 
