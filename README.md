@@ -48,4 +48,4 @@ Best Sites Features for Phishing
 
 #Note: This is a phishing kit and should only be used for educational or testing purposes. Using this kit for malicious activities is illegal and unethical.#
 
-###License: This project is licensed under the MIT License. See LICENSE for details.
+```License: This project is licensed under the GNU License. See LICENSE for details.```
