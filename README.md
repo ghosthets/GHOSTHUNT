@@ -40,9 +40,15 @@ Best Sites Features for Phishing
 ```
 # Getting Started
 
-    Clone the repository: git clone https://github.com/ghosthets/GHOSTHUNGT.git
-    Navigate to the project directory: cd GHOSTHUNT-Phishing-Kit
-    Run the main script: python main.py
+Clone the repository: 
+Navigate to the project directory: 
+Run the main script: 
+
+    Note  @ LINUX USER ONLY
+
+    git clone https://github.com/ghosthets/GHOSTHUNGT.git
+    cd GHOSTHUNT-Phishing-Kit
+    python main.py
     
     
 # Uses
