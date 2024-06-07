@@ -61,8 +61,11 @@ Run the main script:
 
 ```
 
+# IMG
+
+![Screenshot 2024-06-08 at 00-01-53 GH](https://github.com/ghosthets/GHOSTHUNGT/assets/131135117/cd550e57-1b90-4a97-aea6-cc9f00b8170a)
 
 
-# Note: This is a phishing kit and should only be used for educational or testing purposes. Using this kit for malicious activities is illegal and unethical.
+** Note: This is a phishing kit and should only be used for educational or testing purposes. Using this kit for malicious activities is illegal and unethical.**
 
 ```License: This project is licensed under the GNU License. See LICENSE for details.```
