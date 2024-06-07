@@ -38,8 +38,8 @@ Best Sites Features for Phishing
     Yahoo
     Yandex
 ```
+# Uses
 ```
-Uses
 1) First install repo
 2) create Phising Link
 3) open Phiaing Linlk user
