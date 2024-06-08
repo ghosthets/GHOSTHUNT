@@ -3,6 +3,8 @@ GHOSTHUNT Phishing Kit 32 Templates + 1 Customizable
 
 32 Templates + 1 Customizable tool
 
+fully anonymous script user data 
+
 ```
 Best Sites Features for Phishing
 
